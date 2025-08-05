@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  background: #222831;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  
+}
+
+
+.navbar {
+ border: 1px solid black;
+ display: flex;
+ align-items: center;
+  justify-content: space-between;
+  padding-left: 96px;
+  padding-right: 96px;
+ padding-top: 48px;
+ padding-bottom: 48px;
+
+ 
+}
+
+.navlogo {
+  border: 1px solid black;
+  color: #EEEEEE ;
+  font-family: oswald;
+  font-size: 24px;
+  font-weight: bold;
+  
+  
+}
+
+.navlinks ul {
+  border: 1px solid black;
+  display: flex;
+  list-style: none;
+  gap: 48px;
+  
+ 
+
+  
+}
